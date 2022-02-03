@@ -1,4 +1,4 @@
-### Herkese selamlar pek sevgili geliştiriciler.Ben Buğra 👋
+### Herkese selamlar. Ben Buğra 👋
 <p>Kendimi her zaman ilgi alanlarım hakkında her konuya hakim olma konusunda motive ederdim. Şimdi mesleğim bilgisayar mühendisliği olacağına göre bu bu konu motivasyon değil, disiplin haline geldi ve inanın bana bu durum beni çok heyecanlandırıyor. ✨</p>
 
 ### 🔭Genel olarak ilgi duyduğum alanlar başlıca şunlar:</br>
