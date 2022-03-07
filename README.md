@@ -3,8 +3,8 @@
 
 ### 🔭Genel olarak ilgi duyduğum alanlar başlıca şunlar:</br>
 • Unity & oyun geliştirme </br>
+• Flutter ile mobil geliştirme</br>
 • Web Development</br>
-• Bug Bounty</br>
 
 ### 🌱 Şuanki süreçte öğrendiğim tenkolojiler:
 <p>Kendimi her zaman sanatçı ruhlu olarak gördüm. Belki de bu yüzden her zaman yazılımın görsel kısmıyla ilgilenmem gerektiğini düşündüm ama işin analitik tarafı her zaman beni kendine yakın tutmayı başardı. Bu sepeptendir ki Unity oyun motorunu kullanarak oyun geliştirmenin benim için önemli iki keyfi de yaşatabileceğini düşünüyorum.</p>
