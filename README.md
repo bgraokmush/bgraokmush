@@ -1,26 +1,2 @@
 ### Herkese selamlar. Ben Buğra 👋
-<p>Kendimi her zaman ilgi alanlarım hakkında her konuya hakim olma konusunda motive ederdim. Şimdi mesleğim bilgisayar mühendisliği olacağına göre bu bu konu motivasyon değil, disiplin haline geldi ve inanın bana bu durum beni çok heyecanlandırıyor. ✨</p>
-
-### 🔭Genel olarak ilgi duyduğum alanlar başlıca şunlar:</br>
-• Unity & oyun geliştirme </br>
-• Flutter ile mobil geliştirme</br>
-• Web Development</br>
-
-### 🌱 Şuanki süreçte öğrendiğim tenkolojiler:
-<p>Kendimi her zaman sanatçı ruhlu olarak gördüm. Belki de bu yüzden her zaman yazılımın görsel kısmıyla ilgilenmem gerektiğini düşündüm ama işin analitik tarafı her zaman beni kendine yakın tutmayı başardı. Bu sepeptendir ki Unity oyun motorunu kullanarak oyun geliştirmenin benim için önemli iki keyfi de yaşatabileceğini düşünüyorum.</p>
-<p>Bu konuda kendimi başarılı sayabilmek için FATE kullanarak kendi rol yapma oynumu yapabilmem gerek. Bu yolda bolca eğlenip, bolca eğleneceğim gibi duruyor. 🥳</p>
-
-<!--
-**bgraokmush/bgraokmush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Terzi kendi söküğünü dikemediği için yakın zamanda güncellenmek üzere bu şekilde bırakılmıştır. 🌟
