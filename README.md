@@ -23,7 +23,7 @@
 ###
 
 <div align="center" object-fit"cover">
-  <img height="300" src="https://pbs.twimg.com/profile_banners/4892136671/1659351252/1500x500"  />
+  <img src="https://pbs.twimg.com/profile_banners/4892136671/1659351252/1500x500" style="width: 100%; height: auto;" />
 </div>
 
 ###
