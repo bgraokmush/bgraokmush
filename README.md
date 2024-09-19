@@ -42,11 +42,6 @@
 
 As a top-notch __Computer Engineering__ student in my third year, I bring a wealth of expertise to the table. My proficiency in `Next.JS`, `TailwindCSS`, and `.NET` programming languages is second to none, and I'm always looking for opportunities to hone my skills even further. My passion for web development is evident in every project I undertake, and I'm committed to delivering top-notch results every time. When I'm not hard at work crafting beautiful websites and web applications, you'll find me immersing myself in the latest cutting-edge technologies. Whether it's exploring the latest developments.
 
-<br><br>🌱 I’m currently learning .Net Core<br>💬 Ask me about Next.js, TailwindCSS and .NET<br>🕸️ Look at my Website [bugraokumus.com.tr](https://bugraokumus.com.tr/)
-
-###
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=owmrvf7qgfzkui82islwqyevo&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=owmrvf7qgfzkui82islwqyevo&redirect=true)
-
 <be clear="both">
 
 <h3 align="center">🛠 Language and tools</h3>
