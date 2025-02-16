@@ -59,17 +59,3 @@ I'm a passionate Software Engineer specializing in **Next.js**, **Rust**, **.NET
 - 🥉 **2024 Web3 Ideathon & Team Building** - 3rd Place
 - 🥉 **2022 NASA Space App Challenge Elazığ** - 3rd Place
 ###
-
-***
-
-<h3 align="center">🔥 My Stats </h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bgraokmush&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
