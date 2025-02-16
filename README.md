@@ -53,8 +53,8 @@ I'm a passionate Software Engineer specializing in **Next.js**, **Rust**, **.NET
 - **MyAiCoach**: My university graduation project, built with .NET Core 8 and Next.js, utilizing AI and ChatGPT to create personalized workout and nutrition plans.
   [Project Repo](https://github.com/MyAiCoach)
 
-- **Turbine3 Builder**: This repository contains Rust code samples written while learning at the Turbin3 Solana Builders Cohort.
-- [Class Repo](https://github.com/solana-turbin3/q1-25-builder-bgraokmush)
+- **Turbine3 Builder**: This repository contains Rust code samples written while learning at the Turbin3 Solana Builders Cohort
+  [Cohort Repo](https://github.com/solana-turbin3/q1-25-builder-bgraokmush)
 
 ### Achievements:
 - 🥈 **2024 Istanbul Radar Hackathon Demo Day** - 2nd Place
