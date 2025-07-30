@@ -12,7 +12,7 @@
   <a href="https://www.hackerrank.com/bgraokmush" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-<a href="https://medium.com/bgraokmush" target="_blank">
+<a href="https://medium.com/@bgraokmush" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/16468270/bgraokmush" target="_blank">
